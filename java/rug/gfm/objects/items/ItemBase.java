@@ -14,6 +14,7 @@ public class ItemBase extends Item implements IHasModel {
 		setRegistryName(name);
 		setCreativeTab(CreativeTabs.FOOD);
 		
+		//Gets ArrayList ITEMS from ItemInit
 		ItemInit.ITEMS.add(this);
 	}
 

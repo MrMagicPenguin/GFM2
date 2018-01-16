@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "inventory":"gfm:items/tomato"
+        "inventory":"gfm:items/item_tomato"
         
     }
 }

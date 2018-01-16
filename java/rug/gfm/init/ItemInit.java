@@ -8,9 +8,9 @@ import rug.gfm.objects.items.ItemBase;
 import rug.gfm.util.RegistryName;
 
 public class ItemInit {
-	// List
+	// List of items instantiated
 	public static final List<Item> ITEMS = new ArrayList <Item>();
 	
-	//Items
-	public static final Item TOMATO = new ItemBase("food_tomato");
+		// List of items contents
+		public static final Item TOMATO = new ItemBase("item_tomato");
 }

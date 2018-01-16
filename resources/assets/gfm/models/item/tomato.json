@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0":"gfm:textures/tomato"
+        "inventory":"gfm:items/tomato"
+        
     }
 }

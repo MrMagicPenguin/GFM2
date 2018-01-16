@@ -9,9 +9,9 @@ import rug.gfm.util.IHasModel;
 
 public class ItemBase extends Item implements IHasModel {
 	
-	public ItemBase(String unlocalizedName, String registryName) {
-		setUnlocalizedName(unlocalizedName);
-		setRegistryName(registryName);
+	public ItemBase(String name) {
+		setUnlocalizedName(name);
+		setRegistryName(name);
 		setCreativeTab(CreativeTabs.FOOD);
 		
 		ItemInit.ITEMS.add(this);

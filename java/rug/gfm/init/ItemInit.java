@@ -12,5 +12,5 @@ public class ItemInit {
 	public static final List<Item> ITEMS = new ArrayList <Item>();
 	
 	//Items
-	public static final Item TOMATO = new ItemBase(RegistryName.Item.ItemTomato.getUnlocalizedName(), RegistryName.Item.ItemTomato.getRegistryName());
+	public static final Item TOMATO = new ItemBase("food_tomato");
 }

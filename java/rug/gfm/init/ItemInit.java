@@ -12,5 +12,5 @@ public class ItemInit {
 	public static final List<Item> ITEMS = new ArrayList <Item>();
 	
 		// List of items contents
-		public static final Item TOMATO = new ItemBase("item_tomato");
+		public static final Item ITEM_TOMATO = new ItemBase("item_tomato");
 }

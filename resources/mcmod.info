@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gfm",
+  "name": "Giant Food Mod ",
+  "description": "Giant Food for Minecraft",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "https://imgur.com/a/Y5Hrb",
+  "updateUrl": "",
+  "authorList": ["rug"],
+  "credits": "rug",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

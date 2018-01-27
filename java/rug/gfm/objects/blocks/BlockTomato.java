@@ -7,6 +7,8 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.IBlockAccess;
 
 public class BlockTomato extends BlockBase{
+	
+	public boolean isValidTopping = false;
 
 	public static final AxisAlignedBB BLOCK_TOMATO_AABB = new AxisAlignedBB(0.0625D, 0.0D, 0.0625D, 0.9375D, 0.9375D, 0.9375D);
 	

@@ -8,6 +8,6 @@ import net.minecraft.tileentity.TileEntity;
 
 public class TileEntityBurger extends TileEntity{
 	
-	private static final List<Toppings> TOPPINGS = new ArrayList<Toppings>();
+	//private static final List<Toppings> TOPPINGS = new ArrayList<Toppings>();
 	
 }

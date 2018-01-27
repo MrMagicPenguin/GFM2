@@ -1,4 +1,5 @@
+item.item_tomato.name=Tomato
 
-item.item_tomato.name= Tomato
-
-tile.block_tomato.name= Tomato
+tile.block_beef.name=Beef Patty
+tile.block_bottombun=Bottom Bun
+tile.block_tomato.name=Tomato
